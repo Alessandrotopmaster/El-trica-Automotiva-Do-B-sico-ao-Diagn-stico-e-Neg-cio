@@ -1,0 +1,4 @@
+Adicione aqui:
+- imagens/ — diagramas, ferramentas, componentes e etapas
+- audio/ — dicas de diagnóstico rápido
+- planilhas/ — cálculo de custos e ficha de serviço
